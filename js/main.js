@@ -134,7 +134,7 @@ var play = {
 	},
 	check: function(url) {
 		if (location.hostname.search(".rth.") !== -1) {
-			location.href = "https://icedwatermelonjuice.github.io/Online-Player?url=" + url;
+			location.href = "https://aiya1.github.io/iptv?url=" + url;
 		}
 	},
 	on: function() {
